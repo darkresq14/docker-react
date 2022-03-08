@@ -10,6 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>Docker Project by dArKrEsQ !</p>
+        <p>AWS Elastic Beanstalk - Travis CI - Github</p>
         <a
           className="App-link"
           href="https://reactjs.org"
